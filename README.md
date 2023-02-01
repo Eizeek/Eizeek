@@ -1,5 +1,5 @@
+![Aziz Karimov](https://user-images.githubusercontent.com/113392926/216158335-3886df50-7a0a-4ca6-9c46-c1e08aeb566e.gif)
 
-![Untitled design (2)](https://user-images.githubusercontent.com/113392926/216157338-54e93b8d-41f7-446c-90bc-b738d68350e4.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eizeek&theme=chartreuse-dark&show_icons=true)
 
