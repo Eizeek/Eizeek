@@ -1,10 +1,10 @@
-![Aziz Karimov](https://user-images.githubusercontent.com/113392926/216158335-3886df50-7a0a-4ca6-9c46-c1e08aeb566e.gif)
+<!-- ![Aziz Karimov](https://user-images.githubusercontent.com/113392926/216158335-3886df50-7a0a-4ca6-9c46-c1e08aeb566e.gif) -->
 
 
 
 ⚡️ Hi there! I'm a Front-End Developer who's always pushing the limits of what's possible on the web.
 
-💻 I specialize in HTML, CSS, JavaScript and ReactJS, and I have a passion for creating user-friendly websites and applications that look and work great on any device.
+💻 I specialize in HTML, CSS, JavaScript and I have a passion for creating user-friendly websites and applications that look and work great on any device.
 
 🌱 I'm always learning and experimenting with new technologies, and I love to collaborate with others to bring their ideas to life.
 
