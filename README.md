@@ -13,16 +13,4 @@
 💬 Let's connect and create something amazing!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eizeek&theme=chartreuse-dark&show_icons=true ) 
-
-
-![ize7mxln38s41](https://user-images.githubusercontent.com/113392926/222381736-379ec17d-0b01-44a6-a704-932ab0232e62.gif)
-
-
-
-
-
-
-
-![ezgif-1-712d57c967](https://user-images.githubusercontent.com/113392926/216329899-d10d0b23-5129-48fb-a633-a00672ae5388.gif
-) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eizeek&theme=chartreuse-dark&show_icons=true ) ![ezgif-5-d9c8522447](https://user-images.githubusercontent.com/113392926/222382380-94da5fca-80e6-436b-8033-bcbe6fdd9916.gif)
